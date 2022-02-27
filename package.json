@@ -1,0 +1,13 @@
+{
+	"scripts": {
+		"test": "vitest --run"
+	},
+	"devDependencies": {
+		"happy-dom": "^2.41.0",
+		"msw": "^0.38.1",
+		"vitest": "^0.5.8"
+	},
+	"dependencies": {
+		"axios": "^0.26.0"
+	}
+}
